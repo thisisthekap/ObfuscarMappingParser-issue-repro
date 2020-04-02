@@ -3,9 +3,9 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <PackageId>com.example.obfuscarmappingtest.thelib</PackageId>
-        <Version>0.1.1</Version>
-        <Authors>geekthekap</Authors>
-        <Company>fun.music IT GmbH</Company>
+        <Version>0.1.2</Version>
+        <Authors>thisisthekap</Authors>
+        <Company>example corp</Company>
     </PropertyGroup>
 
     <ItemGroup>

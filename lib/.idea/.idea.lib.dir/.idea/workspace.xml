@@ -11,14 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aeb8d62-31f0-49d4-aeb7-d28c46558317" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../app/local-nugets/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obfuscar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/.idea/.idea.app.dir/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/.idea/.idea.app.dir/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/app.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/local-nugets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/../app/nuget.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lib.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lib.dir/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.lib.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lib.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Class1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lib.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +27,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Class1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,6 +76,7 @@
       <workItem from="1585662124607" duration="12758000" />
       <workItem from="1585744704554" duration="2275000" />
       <workItem from="1585810768490" duration="3248000" />
+      <workItem from="1585831249863" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1585662310077</created>

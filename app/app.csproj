@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="com.tonestro.thelib" Version="0.0.16" />
+    <PackageReference Include="com.example.obfuscarmappingtest.thelib" Version="0.1.2" />
   </ItemGroup>
 
 </Project>

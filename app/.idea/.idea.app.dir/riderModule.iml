@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$USER_HOME$/.nuget/packages/com.tonestro.thelib/0.0.16/contentFiles/any/netstandard2.1/obfuscar.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/com.example.obfuscarmappingtest.thelib/0.1.2/contentFiles/any/netstandard2.1/obfuscar.xml" />
     <content url="file://$MODULE_DIR$/../.." />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
